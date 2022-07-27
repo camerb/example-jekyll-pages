@@ -24,6 +24,8 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
+    - The code repo: "https://github.com/camerb/example-jekyll-pages"
+    - The published page: "https://camerb.github.io/example-jekyll-pages/"
   Author's home: "https://deanattali.com"
 
 ################
